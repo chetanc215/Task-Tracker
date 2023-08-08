@@ -1,9 +1,9 @@
 ## Database Configuration:
 
 1. Create Database and Schema 
-   1. Open a PostgreSQL client (e.g., pgAdmin).
-   2. Setup user and password for database if needed.
-   3. Create a new database named "task"
+- Open a PostgreSQL client (e.g., pgAdmin).
+- Setup user and password for database if needed.
+- Create a new database named "task"
 
 2. Configure properties file in Springboot
 - spring.datasource.driver-class-name=org.postgresql.Driver
